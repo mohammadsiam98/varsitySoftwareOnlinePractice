@@ -20,7 +20,7 @@
 <form action="contact_upload_table_backend.php" method="post" enctype="multipart/form-data" style="margin-top: 10%;">
 
  <div class="form-group">
-   <h3><label for="text">Enter Your Blog Header</label></h3>
+   <h3><label for="text">Enter Your Contact Header</label></h3>
    <input type="text" name="InputName" class="form-control" autocomplete="off">
  </div>
 
