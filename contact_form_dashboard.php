@@ -77,7 +77,7 @@
                                      </td>
                                        
                                      <td style="text-align: center;">
-                                          <a href="" class="btn btn-danger btn-sm"> <i class="fas fa-trash-alt">Delete</i> </a>   
+                                          <a href="contact_form_delete.php?id=<?php echo $rowsBannerData['id']; ?>" class="btn btn-danger btn-sm"> <i class="fas fa-trash-alt">Delete</i> </a>   
 
                                      </td>
                                        
